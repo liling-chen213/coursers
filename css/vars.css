@@ -5,6 +5,12 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
  }
-.h1_styling {
+.h1-styling {
     color : rgb(30, 27, 98)
+}
+.footer-global {
+    color :rgb(175, 171, 240)
+}
+.header-global {
+    color :rgb(175, 171, 240)
 }
